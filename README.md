@@ -9,7 +9,7 @@
 
 ![Final Stitched Image](/Panorama.png)
 ![Feature Matching](/Feature_matching.png)
-![Camera pose](/camera pose.png)
+![Camera pose](/camera_pose.png)
 
 ### Additional Notes:
 - Include sample outputs in the PDF report.
