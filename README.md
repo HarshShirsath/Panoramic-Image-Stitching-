@@ -8,8 +8,8 @@
 
 
 ![Final Stitched Image](/Panorama.png)
-![Feature Matching]("C:\Users\harsh\Downloads\Sequential-Image-Stitching-for-Panorama-Creation-main\Sequential-Image-Stitching-for-Panorama-Creation-main\Results\Feature Matching.png")
-![Camera pose](path/to/panoramic_image.jpg)
+![Feature Matching](/Feature Matching.png)
+![Camera pose](/camera pose.png)
 
 ### Additional Notes:
 - Include sample outputs in the PDF report.
