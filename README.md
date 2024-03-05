@@ -8,7 +8,7 @@
 
 
 ![Final Stitched Image](/Panorama.png)
-![Feature Matching](/Feature Matching.png)
+![Feature Matching](/Feature_matching.png)
 ![Camera pose](/camera pose.png)
 
 ### Additional Notes:
