@@ -7,10 +7,10 @@
 5. Combine these frames using the computed homographies to create a panoramic image.
 
 #### DATASET
-![Image 1](/image_1.png)
-![Image 2](/image_2.png)
-![Image 3](/image_3.png)
-![Image 4](/image_4.png)
+![Image 1](/image_1.jpg)
+![Image 2](/image_2.jpg)
+![Image 3](/image_3.jpg)
+![Image 4](/image_4.jpg)
 
 
 #### FINAL
