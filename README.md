@@ -6,7 +6,14 @@
 4. Compute homographies between pairs of images.
 5. Combine these frames using the computed homographies to create a panoramic image.
 
+#### DATASET
+![Image 1](/image_1.png)
+![Image 2](/image_2.png)
+![Image 3](/image_3.png)
+![Image 4](/image_4.png)
 
+
+#### FINAL
 ![Final Stitched Image](/Panorama.png)
 ![Feature Matching](/feature_matching.png)
 ![Camera pose](/camera_pose.png)
