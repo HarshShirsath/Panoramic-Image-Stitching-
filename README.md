@@ -7,7 +7,7 @@
 5. Combine these frames using the computed homographies to create a panoramic image.
 
 
-![Final Stitched Image](path/to/panoramic_image.jpg)
+![Final Stitched Image](/Panorama.png)
 ![Feature Matching]("C:\Users\harsh\Downloads\Sequential-Image-Stitching-for-Panorama-Creation-main\Sequential-Image-Stitching-for-Panorama-Creation-main\Results\Feature Matching.png")
 ![Camera pose](path/to/panoramic_image.jpg)
 
